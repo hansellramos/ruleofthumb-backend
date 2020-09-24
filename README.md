@@ -1,3 +1,2 @@
-# Strapi application
-
-A quick description of your strapi application
+# Rule Of Thumb [Backend]
+Is a backend project as a test for Zemoga
