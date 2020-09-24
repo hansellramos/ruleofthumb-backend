@@ -2,7 +2,7 @@
   "name": "ruleofthumb-dev",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Rule Of Thumb - Backend Application",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -22,7 +22,7 @@
     "strapi-connector-mongoose": "3.1.5"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Hansel Ramos<hansell.ramos@gmail.com>"
   },
   "strapi": {
     "uuid": "40e1418b-50e3-4edb-b3cc-9ec51336c5f8"
